@@ -50,3 +50,17 @@
 // myData().then(dataRequest=>{
 //     console.log("My Data",dataRequest);
 // })
+
+/// task 4
+
+// const persons = [
+//     { name: 'ani', age: 21 },
+//     { name: 'guga', age: 27 },
+//     { name: 'marta', age: 16 },
+//     { name: 'giorgi', age: 19 },
+//     { name: 'megi', age: 22 }
+//   ];
+//   const adults = persons.filter(person => person.age > 18);
+  
+//   console.log(adults);
+  
